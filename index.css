@@ -1,15 +1,15 @@
 body {
       margin: 1%
       auto; background: #a9a9a9;
-      color: #747474;
-      font-family: Ubuntu-Mono;
+      color: #1d1d1d;
+      font-family: Arial;
       font-size: 17px;
       max-width: 60em;
       line-height: 2.2;
     }
   a {
       border-bottom: 1.5px
-      solid #747474;
-      color: #747474;
+      solid #1d1d1d;
+      color: #1d1d1d;
       text-decoration: none;
     }
