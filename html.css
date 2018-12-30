@@ -1,0 +1,15 @@
+body {
+      margin: 1%
+      auto; background: #a9a9a9;
+      color: #1d1d1d;
+      font-family: Ubuntu-Mono;
+      font-size: 17px;
+      max-width: 60em;
+      line-height: 2.2;
+    }
+  a {
+      border-bottom: 1.5px
+      solid #1d1d1d;
+      color: #1d1d1d;
+      text-decoration: none;
+    }
